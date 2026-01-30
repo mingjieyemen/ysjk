@@ -5,7 +5,7 @@
 
 {
 "spider":"https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg;md5;43e551123db0c41dd70ace45fc226add",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://www.adwest.cn/public/uploads/image/20251031/161208_558.mp4",
 "sites":[
 {"key":"豆","name":"新增自动安装，新公众号【太太太硬了】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"MDrive","name":"🗂我的云盘┃我配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},
@@ -83,4 +83,5 @@
 {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
 ]
+
 }

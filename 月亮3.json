@@ -112,7 +112,7 @@
             "ext": {
                 "site": [
                     "https://woggpan.888484.xyz/",
-                    "https://wogg.333232.xyz/",
+                    "https://wogg.333232.xyz/"，
                     "http://woggpan.xxooo.cf/",
                     "https://www.wogg.one/",
                     "http://www.wogg.lol/",
@@ -210,7 +210,7 @@
                     "https://woog.装歌.de5.net"
                 ]
             }
-        }，
+        },
         {
             "key": "二小",
             "name": "💗｜二小｜网盘",
@@ -274,7 +274,7 @@
                     "http://xsayang.fun:12512"
                 ]
             }
-        },
+        }，
         {
             "key": "Libvio",
             "name": "💗｜立播｜网盘",
@@ -287,7 +287,7 @@
         },
         {
             "key": "KuaKeS",
-            "name": "💗｜夸社｜网盘",
+            "name": "💗｜夸社｜网盘"，
             "type": 3,
             "api": "csp_KuaKeS",
             "searchable": 1,
@@ -628,7 +628,7 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        }，
+        },
         {
             "key": "哔哩哔哩听书",
             "name": "🌈｜哔哩｜听书",
@@ -674,7 +674,7 @@
             "ext": {
                 "json": "https://github.com/chitue/dongliTV/tree/main/config/blxp.json",
                 "cookie": ""
-            },
+            }，
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -700,10 +700,10 @@
         {
             "key": "少儿教育",
             "name": "🌈｜少儿｜教育",
-            "type": 3,
+            "type": 3，
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0,
+            "quickSearch": 0，
             "filterable": 1,
             "ext": {
                 "json": "https://github.com/chitue/dongliTV/tree/main/config/sejy.json",
@@ -730,7 +730,7 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
+        }，
         {
             "key": "初中课堂",
             "name": "🌈｜初中｜课堂",
@@ -853,7 +853,7 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://cic.aicg.fun",
-                "dataKey": "2c4h36abd96se10u"，
+                "dataKey": "2c4h36abd96se10u",
                 "dataIv": "2c4h36abd96se10u"
             }
         },
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

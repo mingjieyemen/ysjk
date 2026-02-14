@@ -23,7 +23,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./config/configcenter.json"
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/config/configcenter.json"
         },
         {
             "key": "xingying",
@@ -60,7 +60,7 @@
         {
             "key": "Douyu",
             "name": "🌇｜斗鱼｜直播",
-            "type": 3,
+            "type": 3，
             "api": "csp_Douyu",
             "searchable": 0,
             "quickSearch": 0,
@@ -73,7 +73,7 @@
             }
         },
         {
-            "key": "KuaiShou",
+            "key": "KuaiShou"，
             "name": "🌇｜快手｜直播",
             "type": 3,
             "api": "csp_KuaiShou",
@@ -92,8 +92,8 @@
             "api": "csp_BiliLive",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
+            "changeable": 0，
+            "filterable": 1，
             "timeout": 10,
             "style": {
                 "type": "rect",
@@ -119,7 +119,7 @@
                     "https://wogg.xxooo.cf/"
                 ]
             }
-        },
+        }，
         {
             "key": "木偶",
             "name": "💗｜木偶｜网盘",
@@ -186,7 +186,7 @@
             "changeable": 0,
             "ext": {
                 "site": [
-                    "https://tv.yydsys.top",
+                    "https://tv.yydsys.top"，
                     "https://tv.yydsys.cc",
                     "https://tv.214521.xyz"
                 ]
@@ -1069,7 +1069,7 @@
                 "type": "oval",
                 "ratio": 1.1
             },
-            "ext": "./config/market.json"
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/config/configcenter.json"
         },
         {
             "key": "TgAliSearch",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

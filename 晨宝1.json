@@ -60,7 +60,7 @@
             },
             "playerType": 2,
             "searchable": 1,
-            "quickSearch": 0，
+            "quickSearch": 0,
             "changeable": 0
         },
         {
@@ -692,6 +692,7 @@
         }
     ]
 }
+
 
 
 

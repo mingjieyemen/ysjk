@@ -1,12 +1,12 @@
 {
     "logo": "./assets/logo2025121201.png",
-    "warningText": "赵爷休息的地方",
+    "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用！",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
     "spider": "./jar/dongli-spider.jar",
     "sites": [
         {
             "key": "Douban",
-            "name": "🌀｜hong｜lili",
+            "name": "🐷｜hong｜lili",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1775,4 +1775,5 @@
     ]
 }
   
+
 

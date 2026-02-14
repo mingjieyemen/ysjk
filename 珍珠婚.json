@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "┃2026年┃🐷珍珠婚加壹快乐🐷",
+            "name": "┃2026年🐷珍珠婚加壹快乐🐷┃",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -53,7 +53,7 @@
             "key": "MTV1",
             "name": "🎙️易听音乐┃带歌词",
             "type": 3,
-            "api": "csp_MusicGuard"，
+            "api": "csp_MusicGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -76,7 +76,7 @@
             "style": {
                 "type": "list"
             }
-        }，
+        },
         {
             "key": "ZPan",
             "name": "🎈聚盘搜┃三盘",
@@ -692,3 +692,4 @@
         }
     ]
 }
+

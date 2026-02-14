@@ -59,7 +59,7 @@
                 "ratio": 1
             },
             "playerType": 2,
-            "searchable": 1,
+            "searchable": 1，
             "quickSearch": 0,
             "changeable": 0
         },
@@ -67,7 +67,7 @@
             "key": "seed",
             "name": "💡聚剧剧┃三盘",
             "type": 3,
-            "api": "csp_SeedhubGuard",
+            "api": "csp_SeedhubGuard"，
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
             "searchable": 1,
             "quickSearch": 1,
@@ -234,14 +234,14 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
-        }，
+        },
         {
             "key": "猫猫",
             "name": "🐟猫猫┃多线",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
-            "searchable": 1，
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
@@ -258,7 +258,7 @@
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
         },
         {
-            "key": "奥特"，
+            "key": "奥特",
             "name": "🏝奥特┃多线",
             "type": 3,
             "api": "csp_AueteGuard",
@@ -302,7 +302,7 @@
         },
         {
             "key": "Dm84",
-            "name": "🚌巴士┃动漫",
+            "name": "🚌巴士┃动漫"，
             "type": 3,
             "api": "csp_Dm84Guard",
             "timeout": 10,
@@ -324,10 +324,10 @@
             "key": "88",
             "name": "⚽88┃看球",
             "type": 3,
-            "api": "csp_Sir88Guard",
+            "api": "csp_Sir88Guard"，
             "timeout": 10,
             "searchable": 0,
-            "changeable": 0,
+            "changeable": 0，
             "style": {
                 "type": "list"
             }
@@ -557,7 +557,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            }，
+            },
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -692,6 +692,7 @@
         }
     ]
 }
+
 
 
 

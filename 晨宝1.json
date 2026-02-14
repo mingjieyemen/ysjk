@@ -59,7 +59,7 @@
                 "ratio": 1
             },
             "playerType": 2,
-            "searchable": 1,
+            "searchable": 1，
             "quickSearch": 0,
             "changeable": 0
         },
@@ -67,7 +67,7 @@
             "key": "seed",
             "name": "💡聚剧剧┃三盘",
             "type": 3,
-            "api": "csp_SeedhubGuard",
+            "api": "csp_SeedhubGuard"，
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
             "searchable": 1,
             "quickSearch": 1,
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "原创",
             "name": "☀原创┃秒播",
@@ -692,6 +692,7 @@
         }
     ]
 }
+
 
 
 

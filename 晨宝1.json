@@ -59,7 +59,7 @@
                 "ratio": 1
             },
             "playerType": 2,
-            "searchable": 1，
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
         },
@@ -67,7 +67,7 @@
             "key": "seed",
             "name": "💡聚剧剧┃三盘",
             "type": 3,
-            "api": "csp_SeedhubGuard"，
+            "api": "csp_SeedhubGuard",
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
             "searchable": 1,
             "quickSearch": 1,
@@ -147,7 +147,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        }，
+        },
         {
             "key": "原创",
             "name": "☀原创┃秒播",
@@ -178,7 +178,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1，
+            "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
@@ -188,7 +188,7 @@
             "api": "csp_NmyswvGuard",
             "timeout": 15,
             "searchable": 1,
-            "quickSearch": 1，
+            "quickSearch": 1,
             "changeable": 1
         },
         {
@@ -203,7 +203,7 @@
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
         },
         {
-            "key": "光影"，
+            "key": "光影",
             "name": "🌞光影┃多线",
             "type": 3,
             "api": "csp_AppSxGuard",
@@ -692,6 +692,7 @@
         }
     ]
 }
+
 
 
 

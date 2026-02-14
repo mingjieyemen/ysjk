@@ -135,7 +135,7 @@
         },
         {
             "key": "盘他",
-            "name": "💓‍盘他┃4K💓‍"，
+            "name": "💓‍盘他┃4K💓‍",
             "type": 3,
             "api": "csp_WexYDpantaGuard",
             "searchable": 1,
@@ -186,7 +186,7 @@
             "name": "🌺文才┃秒播🌺",
             "type": 3,
             "api": "csp_WexwencaiGuard",
-            "searchable": 1,
+            "searchable": 1，
             "changeable": 1
         },
         {
@@ -958,4 +958,5 @@
         }
     ]
 }
+
 

@@ -59,7 +59,7 @@
         },
         {
             "key": "Douyu",
-            "name": "🌇｜斗鱼｜直播"，
+            "name": "🌇｜斗鱼｜直播",
             "type": 3,
             "api": "csp_Douyu",
             "searchable": 0,
@@ -112,7 +112,7 @@
             "ext": {
                 "site": [
                     "https://woggpan.888484.xyz/",
-                    "https://wogg.333232.xyz/",
+                    "https://wogg.333232.xyz/"，
                     "http://woggpan.xxooo.cf/",
                     "https://www.wogg.one/",
                     "http://www.wogg.lol/",
@@ -674,7 +674,7 @@
             "ext": {
                 "json": "https://github.com/chitue/dongliTV/tree/main/config/blxp.json",
                 "cookie": ""
-            }，
+            },
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -700,10 +700,10 @@
         {
             "key": "少儿教育",
             "name": "🌈｜少儿｜教育",
-            "type": 3，
+            "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
-            "quickSearch": 0，
+            "quickSearch": 0,
             "filterable": 1,
             "ext": {
                 "json": "https://github.com/chitue/dongliTV/tree/main/config/sejy.json",
@@ -730,7 +730,7 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        }，
+        },
         {
             "key": "初中课堂",
             "name": "🌈｜初中｜课堂",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

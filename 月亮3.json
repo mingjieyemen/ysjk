@@ -60,7 +60,7 @@
         {
             "key": "Douyu",
             "name": "🌇｜斗鱼｜直播",
-            "type": 3,
+            "type": 3，
             "api": "csp_Douyu",
             "searchable": 0,
             "quickSearch": 0,
@@ -73,7 +73,7 @@
             }
         },
         {
-            "key": "KuaiShou",
+            "key": "KuaiShou"，
             "name": "🌇｜快手｜直播",
             "type": 3,
             "api": "csp_KuaiShou",
@@ -162,7 +162,7 @@
             "api": "csp_MacCMS",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1，
+            "filterable": 1,
             "changeable": 0,
             "ext": {
                 "site": [
@@ -170,7 +170,7 @@
                     "https://www.miqk.cc",
                     "https://xiaomiai.site",
                     "https://xiaomi666.fun",
-                    "https://www.mihdr.top"，
+                    "https://www.mihdr.top",
                     "https://www.zhizhenpan.fun"
                 ]
             }
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

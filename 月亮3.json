@@ -1,5 +1,5 @@
 {
-    "logo": "https://wimg.588ku.com/gif320/24/07/09/1edd710d540947c2953ef56736df2f2a.gif",
+    "logo": "./assets/logo2025121201.png",
     "warningText": "赵爷休息的地方",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
     "spider": "./jar/dongli-spider.jar",
@@ -1775,3 +1775,4 @@
     ]
 }
   
+

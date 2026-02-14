@@ -210,7 +210,7 @@
                     "https://woog.装歌.de5.net"
                 ]
             }
-        },
+        }，
         {
             "key": "二小",
             "name": "💗｜二小｜网盘",
@@ -536,7 +536,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./config/jianpian.json"
+            "ext": "https://github.com/chitue/dongliTV/tree/main/config/jianpian.json"
         },
         {
             "key": "Xb6v",
@@ -608,7 +608,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./config/bilibili.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/bilibili.json",
                 "cookie": ""
             }
         },
@@ -621,14 +621,14 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blych.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blych.json",
                 "cookie": ""
             },
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
+        }，
         {
             "key": "哔哩哔哩听书",
             "name": "🌈｜哔哩｜听书",
@@ -638,7 +638,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blts.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blts.json",
                 "cookie": ""
             },
             "style": {
@@ -655,7 +655,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxs.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blxs.json",
                 "cookie": ""
             },
             "style": {
@@ -672,7 +672,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxp.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blxp.json",
                 "cookie": ""
             },
             "style": {
@@ -689,7 +689,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxq.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blxq.json",
                 "cookie": ""
             },
             "style": {
@@ -706,7 +706,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/sejy.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/sejy.json",
                 "cookie": ""
             },
             "style": {
@@ -723,7 +723,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/xxkt.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/xxkt.json",
                 "cookie": ""
             },
             "style": {
@@ -740,7 +740,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/czkt.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/czkt.json",
                 "cookie": ""
             },
             "style": {
@@ -757,7 +757,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/gzkt.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/gzkt.json",
                 "cookie": ""
             },
             "style": {
@@ -779,7 +779,7 @@
                 "ratio": 1.597
             },
             "ext": {
-                "json": "./config/blys.json",
+                "json": "https://github.com/chitue/dongliTV/tree/main/config/blys.json",
                 "cookie": ""
             }
         },
@@ -853,7 +853,7 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "http://cic.aicg.fun",
-                "dataKey": "2c4h36abd96se10u",
+                "dataKey": "2c4h36abd96se10u"，
                 "dataIv": "2c4h36abd96se10u"
             }
         },
@@ -993,7 +993,7 @@
                 "type": "list"
             },
             "timeout": 30,
-            "ext": "./config/myuc.json"
+            "ext": "https://github.com/chitue/dongliTV/tree/main/config/myuc.json"
         },
         {
             "key": "myquark",
@@ -1009,7 +1009,7 @@
                 "type": "list"
             },
             "timeout": 30,
-            "ext": "./config/myquark.json"
+            "ext": "https://github.com/chitue/dongliTV/tree/main/config/myquark.json"
         },
         {
             "key": "mybaidu",
@@ -1025,7 +1025,7 @@
                 "type": "list"
             },
             "timeout": 30,
-            "ext": "./config/mybaidu.json"
+            "ext": "https://github.com/chitue/dongliTV/tree/main/config/mybaidu.json"
         },
         {
             "key": "myali",
@@ -1041,7 +1041,7 @@
                 "type": "list"
             },
             "timeout": 30,
-            "ext": "./config/myali.json"
+            "ext": "https://github.com/chitue/dongliTV/tree/main/config/myali.json"
         },
         {
             "key": "mytianyi",
@@ -1069,7 +1069,7 @@
                 "type": "oval",
                 "ratio": 1.1
             },
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/config/configcenter.json"
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/config/market.json"
         },
         {
             "key": "TgAliSearch",
@@ -1129,7 +1129,7 @@
         },
         {
             "key": "PanSouQuark",
-            "name": "㊣｜夸克┃盘搜",
+            "name": "㊣｜夸克┃盘搜"，
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -1143,7 +1143,7 @@
             }
         },
         {
-            "key": "PanSouUc",
+            "key": "PanSouUc"，
             "name": "㊣｜优囍┃盘搜",
             "type": 3,
             "api": "csp_PanSou",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

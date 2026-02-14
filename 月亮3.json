@@ -59,7 +59,7 @@
         },
         {
             "key": "Douyu",
-            "name": "🌇｜斗鱼｜直播",
+            "name": "🌇｜斗鱼｜直播"，
             "type": 3,
             "api": "csp_Douyu",
             "searchable": 0,
@@ -112,7 +112,7 @@
             "ext": {
                 "site": [
                     "https://woggpan.888484.xyz/",
-                    "https://wogg.333232.xyz/"，
+                    "https://wogg.333232.xyz/",
                     "http://woggpan.xxooo.cf/",
                     "https://www.wogg.one/",
                     "http://www.wogg.lol/",
@@ -162,7 +162,7 @@
             "api": "csp_MacCMS",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 1，
             "changeable": 0,
             "ext": {
                 "site": [
@@ -170,7 +170,7 @@
                     "https://www.miqk.cc",
                     "https://xiaomiai.site",
                     "https://xiaomi666.fun",
-                    "https://www.mihdr.top",
+                    "https://www.mihdr.top"，
                     "https://www.zhizhenpan.fun"
                 ]
             }
@@ -820,7 +820,7 @@
                 "ratio": 0.75
             },
             "changeable": 1
-        },
+        }，
         {
             "key": "丫丫动漫",
             "name": "🌸｜丫丫｜动漫",
@@ -1129,7 +1129,7 @@
         },
         {
             "key": "PanSouQuark",
-            "name": "㊣｜夸克┃盘搜"，
+            "name": "㊣｜夸克┃盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -1143,7 +1143,7 @@
             }
         },
         {
-            "key": "PanSouUc"，
+            "key": "PanSouUc",
             "name": "㊣｜优囍┃盘搜",
             "type": 3,
             "api": "csp_PanSou",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

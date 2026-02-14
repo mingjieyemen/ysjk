@@ -186,7 +186,7 @@
             "name": "🌺文才┃秒播🌺",
             "type": 3,
             "api": "csp_WexwencaiGuard",
-            "searchable": 1，
+            "searchable": 1,
             "changeable": 1
         },
         {
@@ -958,5 +958,6 @@
         }
     ]
 }
+
 
 

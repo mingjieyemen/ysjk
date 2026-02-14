@@ -60,7 +60,7 @@
         {
             "key": "Douyu",
             "name": "🌇｜斗鱼｜直播",
-            "type": 3，
+            "type": 3,
             "api": "csp_Douyu",
             "searchable": 0,
             "quickSearch": 0,
@@ -73,7 +73,7 @@
             }
         },
         {
-            "key": "KuaiShou"，
+            "key": "KuaiShou",
             "name": "🌇｜快手｜直播",
             "type": 3,
             "api": "csp_KuaiShou",
@@ -92,8 +92,8 @@
             "api": "csp_BiliLive",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0，
-            "filterable": 1，
+            "changeable": 0,
+            "filterable": 1,
             "timeout": 10,
             "style": {
                 "type": "rect",
@@ -119,7 +119,7 @@
                     "https://wogg.xxooo.cf/"
                 ]
             }
-        }，
+        },
         {
             "key": "木偶",
             "name": "💗｜木偶｜网盘",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

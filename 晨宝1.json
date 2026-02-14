@@ -53,7 +53,7 @@
             "key": "MTV1",
             "name": "🎙️易听音乐┃带歌词",
             "type": 3,
-            "api": "csp_MusicGuard"，
+            "api": "csp_MusicGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -327,7 +327,7 @@
             "api": "csp_Sir88Guard",
             "timeout": 10,
             "searchable": 0,
-            "changeable": 0，
+            "changeable": 0,
             "style": {
                 "type": "list"
             }
@@ -692,3 +692,4 @@
         }
     ]
 }
+

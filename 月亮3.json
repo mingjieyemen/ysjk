@@ -59,7 +59,7 @@
         },
         {
             "key": "Douyu",
-            "name": "🌇｜斗鱼｜直播",
+            "name": "🌇｜斗鱼｜直播"，
             "type": 3,
             "api": "csp_Douyu",
             "searchable": 0,
@@ -112,7 +112,7 @@
             "ext": {
                 "site": [
                     "https://woggpan.888484.xyz/",
-                    "https://wogg.333232.xyz/"，
+                    "https://wogg.333232.xyz/",
                     "http://woggpan.xxooo.cf/",
                     "https://www.wogg.one/",
                     "http://www.wogg.lol/",
@@ -274,7 +274,7 @@
                     "http://xsayang.fun:12512"
                 ]
             }
-        }，
+        },
         {
             "key": "Libvio",
             "name": "💗｜立播｜网盘",
@@ -287,7 +287,7 @@
         },
         {
             "key": "KuaKeS",
-            "name": "💗｜夸社｜网盘"，
+            "name": "💗｜夸社｜网盘",
             "type": 3,
             "api": "csp_KuaKeS",
             "searchable": 1,
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

@@ -60,7 +60,7 @@
         {
             "key": "Douyu",
             "name": "🌇｜斗鱼｜直播",
-            "type": 3，
+            "type": 3,
             "api": "csp_Douyu",
             "searchable": 0,
             "quickSearch": 0,
@@ -73,7 +73,7 @@
             }
         },
         {
-            "key": "KuaiShou"，
+            "key": "KuaiShou",
             "name": "🌇｜快手｜直播",
             "type": 3,
             "api": "csp_KuaiShou",
@@ -1775,6 +1775,7 @@
     ]
 }
   
+
 
 
 

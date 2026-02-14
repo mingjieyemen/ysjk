@@ -1,8 +1,8 @@
 {
-    "logo": "./assets/logo2025121201.png",
-    "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用！",
+    "logo": "https://wimg.588ku.com/gif320/24/07/09/301c033ed2cc4fd19fcee90a27b3bf4c.gif",
+    "warningText": "赵爷休息的地方",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-    "spider": "./jar/dongli-spider.jar",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/jar/dongli-spider.jar",
     "sites": [
         {
             "key": "Douban",
@@ -1775,5 +1775,6 @@
     ]
 }
   
+
 
 

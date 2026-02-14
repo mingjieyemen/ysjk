@@ -64,7 +64,7 @@
             "name": "💓‍玩偶┃4K💓‍",
             "type": 3,
             "api": "csp_WoggGuard",
-            "searchable": 1，
+            "searchable": 1,
             "changeable": 1
         },
         {
@@ -79,8 +79,8 @@
             "key": "Wexnullname",
             "name": "💓无名┃4K💓",
             "type": 3,
-            "api": "csp_WexnullnameGuard"，
-            "searchable": 1，
+            "api": "csp_WexnullnameGuard",
+            "searchable": 1,
             "changeable": 1,
             "timeout": 120
         },
@@ -132,10 +132,10 @@
             "api": "csp_WexhubanGuard",
             "searchable": 1,
             "changeable": 1
-        }，
+        },
         {
             "key": "盘他",
-            "name": "💓‍盘他┃4K💓‍",
+            "name": "💓‍盘他┃4K💓‍"，
             "type": 3,
             "api": "csp_WexYDpantaGuard",
             "searchable": 1,
@@ -958,3 +958,4 @@
         }
     ]
 }
+

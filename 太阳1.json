@@ -47,10 +47,10 @@
 {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},
 "timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
 {
-      "key": "❤猫咪资源",
-      "name": "❤猫咪资源",
+      "key": "❤丝袜资源",
+      "name": "❤丝袜资源",
       "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -113,7 +113,7 @@
       "key": "❤AIvin|AV2",
       "name": "❤AIvin|AV2",
       "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -158,16 +158,16 @@
       "key": "❤奥斯卡源",
       "name": "❤奥斯卡源",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod",
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
 {
-      "key": "❤草榴源",
-      "name": "❤草榴源",
+      "key": "❤精品源",
+      "name": "❤精品源",
       "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -200,10 +200,10 @@
       "filterable": 0
     },
 {
-      "key": "❤易看源",
-      "name": "❤易看源",
+      "key": "❤百万源",
+      "name": "❤百万源",
       "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -227,10 +227,10 @@
       "filterable": 0
     },
 {
-      "key": "❤优异源",
-      "name": "❤优异源",
+      "key": "❤杏吧源",
+      "name": "❤杏吧源",
       "type": 1,
-      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "api": "https://json.xingba222.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -239,29 +239,29 @@
       "key": "❤老色屄",
       "name": "❤老色屄",
       "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list ",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
 {
-      "key": "❤色南国",
-      "name": "❤色南国",
+      "key": "❤大地",
+      "name": "❤大地",
       "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "api": "https://dadiapi.com/feifei/ ",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
 {
-      "key": "❤葡萄源",
-      "name": "❤葡萄源",
+      "key": "❤鲨鱼源",
+      "name": "❤鲨鱼源",
       "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
+    }，
 {
       "key": "❤丝袜源",
       "name": "❤丝袜源",
@@ -281,28 +281,28 @@
       "filterable": 0
     },
 {
-      "key": "❤麻豆源",
-      "name": "❤麻豆源",
+      "key": "❤辣椒源",
+      "name": "❤辣椒源",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
 {
-      "key": "❤黄AV",
-      "name": "❤黄AV",
+      "key": "❤桃花",
+      "name": "❤桃花",
       "type": 1,
-      "api": "https://www.pgxdy.com/api/xml.php",
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
 {
-      "key": "❤美少女资源",
-      "name": "❤美少女资源",
+      "key": "❤细胞资源",
+      "name": "❤细胞资源",
       "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -311,7 +311,7 @@
       "key": "❤淫水机资源",
       "name": "❤淫水机资源",
       "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
+      "api": "https://www.xrbsp.com/api/json.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -320,7 +320,7 @@
       "key": "❤香奶儿资源",
       "name": "❤香奶儿资源",
       "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
+      "api": "https://www.gdlsp.com/api/json.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -329,7 +329,7 @@
       "key": "❤白嫖资源",
       "name": "❤白嫖资源",
       "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
+      "api": "https://www.kxgav.com/api/json.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -338,7 +338,7 @@
       "key": "❤大地资源",
       "name": "❤大地资源",
       "type": 0,
-      "api": "https://dadiapi.com/api.php",
+      "api": "http://ddkbo.com/feifei/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -386,4 +386,5 @@
 ]
 
 }
+
 

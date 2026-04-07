@@ -1,3 +1,4 @@
+
 {
     "spider": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/1775487153648w1G3w8.txt;md5;f087b784fcd2ef44b03bc2ac80ea1c84",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
@@ -15,7 +16,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260210】🐮",
+            "name": "🐮【更新日期:20260406】🐮",
             "type": 3,
             "api": "csp_DoubanGuard",
             "searchable": 0,
@@ -190,14 +191,6 @@
             "changeable": 1
         },
         {
-            "key": "Wexxpgtv",
-            "name": "🌺苹果┃秒播🌺",
-            "type": 3,
-            "api": "csp_WexxpgtvGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Nmys",
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
@@ -340,7 +333,7 @@
                 "type": "rect",
                 "ratio": 2
             }
-        }，
+        },
         {
             "key": "Wexergeduoduo",
             "name": "👼多多┃儿歌👼",
@@ -355,9 +348,9 @@
         },
         {
             "key": "Wexbaobaobashi",
-            "name": "👼宝宝┃儿歌👼"，
-            "type": 3，
-            "api": "csp_WexbaobaobashiGuard"，
+            "name": "👼宝宝┃儿歌👼",
+            "type": 3,
+            "api": "csp_WexbaobaobashiGuard",
             "searchable": 1,
             "changeable": 0,
             "style": {
@@ -942,10 +935,16 @@
     ],
     "lives": [
         {
-            "name": "冰茶",
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "综合直播",
             "type": 0,
             "playerType": 2,
-            "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
+            "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
@@ -958,6 +957,3 @@
         }
     ]
 }
-
-
-
